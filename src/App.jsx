@@ -31,7 +31,7 @@ function App() {
 
             </div>
             
-            <input   className=" outline-none rounded-[4px] py-1 w-full px-4 border-[1px] border-[#000]"  placeholder="enter the wanted number" type="text" />
+            <input   className=" outline-none rounded-[4px] py-1 w-full px-4 border-[1px] border-[#000]"  placeholder="Enter a number" type="text" />
           </div>
 
           <div className=" w-[60%] " >
