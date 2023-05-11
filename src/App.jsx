@@ -19,11 +19,6 @@ function App() {
         <div className=" flex flex-col justify-center items-center gap-8 w-[50%]"  >
           <div className="flex drop-shadow-xl shadow-xl backdrop-blur rounded-[8px]  justify-center items-center h-[60%] w-full" >
             here goes description of the model
-            
-
-         
-          
-
           </div>
           <div className="  flex flex-col justify-start items-center w-[60%]" >
             <div className=" w-full  flex justify-start items-center" >
